@@ -41,6 +41,5 @@ Autor
 Wander3r
 Desenvolvedor focado em criação de sistemas, jogos e automações.
 
-📬 Contato
-
-(adicione aqui Discord ou outra forma de contato, se quiser atrair oportunidades)
+Contato
+instagram @wander3rx
